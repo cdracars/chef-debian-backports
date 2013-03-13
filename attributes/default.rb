@@ -1,1 +1,1 @@
-default['debian-backports']['version-name'] = "wheezy"
+default['debian-backports']['version-name'] = "squeeze"
